@@ -147,6 +147,5 @@ export const skillsData = [
   "Shadcn UI",
   "Antd Design",
   "PostgreSQL",
-  "MySQL",
-  "eCharts",
+  "MySQL"
 ] 

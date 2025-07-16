@@ -113,6 +113,7 @@ export const projectsData = [
     imageUrl: Lunrron,
     projectUrl: '',
     demoUrl: 'https://www.anisora.ai',
+    videoUrl: 'https://www.anisora.ai'
   }
   // {
   //   title: "Easyview CRM",
